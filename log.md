@@ -12,3 +12,5 @@ quirkier.
 pico:
 another name for nano
 
+shutdown:
+`sudo shutdown -h now` -h is for halt, or don't reboot.
